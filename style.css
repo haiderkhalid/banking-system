@@ -62,3 +62,19 @@ body {
     padding: 12px 20px;
     border-radius: 50px;
 }
+
+.color1 i {
+    color: purple;
+}
+
+.color2 i {
+    color: blueviolet;
+}
+
+.color3 i {
+    color: tomato;
+}
+
+.color4 i {
+    color: greenyellow;
+}
